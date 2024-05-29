@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_height">48dp</dimen>
+    <dimen name="key_height_land">40dp</dimen>
+    <dimen name="pincode_single_width">20</dimen>
+    <dimen name="pincode_height">30</dimen>
+    <dimen name="pincode_padding">10</dimen>
+    <dimen name="pincode_text_size">20</dimen>
+</resources>
